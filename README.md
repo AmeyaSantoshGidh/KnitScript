@@ -1,8 +1,7 @@
 **Introduction**
+Working with professor Megan Hofmann -> https://www.megan-hofmann.com/
 
-https://pypi.org/project/knit-script/
-
-https://www.megan-hofmann.com/
+who is the developer of the python library -> https://pypi.org/project/knit-script/
 
 KnitScript is a specialized programming language designed to simplify the process of creating knitting patterns. Instead of manually specifying individual knitting stitches, KnitScript allows you to define patterns using higher-level constructs like textures and patterns, making knitting design more intuitive.
 
